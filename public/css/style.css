@@ -1,0 +1,14 @@
+table{
+    margin: auto;
+    border-collapse: collapse;
+    width: 100%;
+}
+img{
+    width: 200px;
+}
+tr{
+    border: 1px solid gray;
+}
+tr>*{
+    text-align: center;
+}
